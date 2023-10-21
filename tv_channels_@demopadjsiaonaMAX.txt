@@ -1,0 +1,139 @@
+#EXTM3U
+#EXTINF:-1,MAX Western HD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/792
+#EXTINF:-1,MAX Vizyon HD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/791
+#EXTINF:-1,MAX Vizyon 3 HD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/790
+#EXTINF:-1,MAX Vizyon 2 HD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/789
+#EXTINF:-1,MAX Turk HD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/788
+#EXTINF:-1,MAX Star Wars HD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/787
+#EXTINF:-1,MAX HD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/786
+#EXTINF:-1,MAX Kino Collection HD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/785
+#EXTINF:-1,MAX Gold HD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/784
+#EXTINF:-1,TR MAX Premier HD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/783
+#EXTINF:-1,MAX Animasyon HD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/782
+#EXTINF:-1,MAX Animasyon 2 HD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/781
+#EXTINF:-1,MAX 007 HD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/779
+#EXTINF:-1,DE | MAX Premiere HD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/808
+#EXTINF:-1,DE MAX KINO 4 HD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/809
+#EXTINF:-1,DE MAX KINO 5 HD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/810
+#EXTINF:-1,Max 4K UHD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/902
+#EXTINF:-1,MAX Orjinal HD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/806
+#EXTINF:-1,MAX Vizyon 4 HD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/807
+#EXTINF:-1,MAX Aksion HD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/780
+#EXTINF:-1,MAX Aksiyon 2 HD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/805
+#EXTINF:-1,DE MAX SELECT HD 7
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/952
+#EXTINF:-1,DE MAX SELECT HD 6
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/951
+#EXTINF:-1,DE MAX SELECT HD 5
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/950
+#EXTINF:-1,DE MAX SELECT HD 4
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/949
+#EXTINF:-1,DE MAX SELECT HD 3
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/948
+#EXTINF:-1,DE MAX SELECT HD 2
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/947
+#EXTINF:-1,DE MAX SELECT HD 1
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/946
+#EXTINF:-1,DE MAX KINO COLLECTION
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/956
+#EXTINF:-1,DE MAX KINO 3
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/955
+#EXTINF:-1,DE MAX KINO 2
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/954
+#EXTINF:-1,DE MAX KINO
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/953
+#EXTINF:-1,Germany Konig Filme 1
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18054
+#EXTINF:-1,DE➤ Germany Besondere 1
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18055
+#EXTINF:-1,DE➤ Germany Besondere 2
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18056
+#EXTINF:-1,DE➤ Germany Besondere 3
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18057
+#EXTINF:-1,DE➤ Germany Besondere 4
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18058
+#EXTINF:-1,DE➤ Germany Besondere 5
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18059
+#EXTINF:-1,DE➤ Germany Besondere 6
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18060
+#EXTINF:-1,DE➤ Germany Besondere 7
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18061
+#EXTINF:-1,DE➤ Germany Besondere 8
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18062
+#EXTINF:-1,DE➤ Germany Besondere 9
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18063
+#EXTINF:-1,DE➤ Germany Besondere 10
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18064
+#EXTINF:-1,DE➤ Germany Besondere 11
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18065
+#EXTINF:-1,DE➤ Germany Besondere 12
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18066
+#EXTINF:-1,DE➤ Germany Besondere 13
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18067
+#EXTINF:-1,DE➤ Germany Box Action
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18068
+#EXTINF:-1,DE➤ Germany Box Comedy
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18069
+#EXTINF:-1,DE➤ Germany Box Family
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18071
+#EXTINF:-1,DE➤ Germany Box Horror
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18072
+#EXTINF:-1,DE➤ Germany Box Libies
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18073
+#EXTINF:-1,DE➤ Germany Box Science
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18074
+#EXTINF:-1,DE➤ Germany Box Thriller
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18075
+#EXTINF:-1,DE➤ Germany Box Vision
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18076
+#EXTINF:-1,DE➤ Germany Box Dram
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18077
+#EXTINF:-1,DE➤ Germany Box Western
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18078
+#EXTINF:-1,DE➤ Germany Box Indısch
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18079
+#EXTINF:-1,DE➤ Germany Box Amazon Prime
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18080
+#EXTINF:-1,DE➤ Germany Box Krıegs
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18081
+#EXTINF:-1,DE➤ Germany Box Netflıx
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18082
+#EXTINF:-1,DE➤ Germany Box Disney+
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/18083
+#EXTINF:-1,DE MAX 007 HD 
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/1108
+#EXTINF:-1,DE MAX STAR WARS HD 
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/1109
+#EXTINF:-1,DE Max Select 4K UHD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/17632
+#EXTINF:-1,DE Max Select 2 4K UHD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/17633
+#EXTINF:-1,DE Max Bollywood HD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/17634
+#EXTINF:-1,DE Max Select 4K MIX UHD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/17635
+#EXTINF:-1,DE MAX Plus HD
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/17773
+#EXTINF:-1,TEST
+http://23.146.40.56:8000/@demopadjsiaona/206Q7JbZWe/17897
